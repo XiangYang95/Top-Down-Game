@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 5094fbe02bd739a45961a54b1eec509c
+  productGUID: 69b151d9cf1ba40a7ae13aafb0b65890
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Top-DownGame
+  productName: Untitled Top Down Shooter
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -619,9 +619,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 110ca736-3168-4275-a9ad-6ebbbe1e2360
-  projectName: Top-DownGame
-  organizationId: xiangyang-95
+  cloudProjectId: 56cefc48-1671-45e7-888d-ac3d3479cda3
+  projectName: Untitled Top Down Shooter
+  organizationId: ink0hgnito
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
